@@ -12,7 +12,7 @@ O jogo consiste em 5 rodadas onde aparecerá na tela uma pergunta com quatro alt
 Então dois jogadores desafiam-se a acertar a alternativa correta.
 O jogador que errar bebe um shot e se o jogador acertar o oponente que bebe. 
 
-***O tema das perguntas e o layout do jogo é personalizavel para cada ocasião.
+<p>O tema das perguntas e o layout do jogo é personalizavel para cada ocasião.</p>
 
 <h3> Printscreen da tela inicial</h3>
 <img src="https://github.com/gabhilles/game-universitario-/blob/main/Layout/DESAFIE-UM-JOGADOR.png" width="350"/>
