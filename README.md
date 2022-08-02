@@ -1,6 +1,11 @@
 <h1>## Enem To Bebado</h1>
+<div style="display: flex;">
+  <img src="https://github.com/gabhilles/game-universitario-/blob/main/Layout/292912483_450037240464410_2605984950743523579_n.jpg" width="350"/>
+  <img src="https://github.com/gabhilles/game-universitario-/blob/main/Layout/292912483_450037240464410_2605984950743523579_n.jpg" width="350"/>
+</div>
 
-<img src="ttps://github.com/gabhilles/game-universitario-/blob/main/Layout/292912483_450037240464410_2605984950743523579_n.jpg" width="350"/>
+
+<img src="https://github.com/gabhilles/game-universitario-/blob/main/Layout/292912483_450037240464410_2605984950743523579_n.jpg" width="350"/>
 
 ## Descrição do Jogo
 O jogo consiste em 5 rodadas onde aparecerá na tela uma pergunta com quatro alternativas. 
