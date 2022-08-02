@@ -1,5 +1,5 @@
 <h1>## Enem To Bebado</h1>
-<div style="display: flex"></div>
+
 <img src="ttps://github.com/gabhilles/game-universitario-/blob/main/Layout/292912483_450037240464410_2605984950743523579_n.jpg" width="350"/>
 
 ## Descrição do Jogo
