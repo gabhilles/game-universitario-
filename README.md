@@ -1,7 +1,7 @@
 <h1>## Enem To Bebado</h1>
 <div style="display: flex;">
-  <img src="https://github.com/gabhilles/game-universitario-/blob/main/Layout/292912483_450037240464410_2605984950743523579_n.jpg" width="350"/>
-  <img src="https://github.com/gabhilles/game-universitario-/blob/main/Layout/292521428_450042587130542_2372794984710269270_n.jpg" width="350"/>
+  <img src="https://github.com/gabhilles/game-universitario-/blob/main/Images/292521428_450042587130542_2372794984710269270_n.jpg" width="350"/>
+  <img src="https://github.com/gabhilles/game-universitario-/blob/main/Images/292912483_450037240464410_2605984950743523579_n.jpg" width="350"/>
 </div>
 
 
@@ -32,6 +32,14 @@ https://github.com/gabhilles/game-universitario-/raw/main/Instalador/Enem%20to%2
 - `tv 32pol`
 
 ***
+## 📷 Fotos do Projeto
 
-<h3> Printscreen da tela inicial</h3>
-<img src="https://github.com/gabhilles/game-universitario-/blob/main/Layout/DESAFIE-UM-JOGADOR.png" width="350"/>
+<div style="display: flex;">
+   <img src="https://github.com/gabhilles/game-universitario-/blob/main/Images/WhatsApp%20Image%202022-08-02%20at%2021.45.17.jpeg" width="350"/>
+  <img src="https://github.com/gabhilles/game-universitario-/blob/main/Images/WhatsApp%20Image%202022-08-02%20at%2021.45.17%20(1).jpeg" width="350"/>
+  <img src="https://github.com/gabhilles/game-universitario-/blob/main/Images/WhatsApp%20Image%202022-08-02%20at%2021.45.34.jpeg" width="350"/>
+  <img src="https://github.com/gabhilles/game-universitario-/blob/main/Images/WhatsApp%20Image%202022-08-02%20at%2021.46.17.jpeg" width="350"/>
+  <img src="https://github.com/gabhilles/game-universitario-/blob/main/Images/WhatsApp%20Image%202022-08-02%20at%2021.46.17%20(1).jpeg" width="350"/>
+  
+</div>
+
