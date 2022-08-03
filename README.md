@@ -5,14 +5,18 @@
 </div>
 
 
-
-
 ## Descrição do Jogo
 O jogo consiste em 5 rodadas onde aparecerá na tela uma pergunta com quatro alternativas. 
 Então dois jogadores desafiam-se a acertar a alternativa correta.
 O jogador que errar bebe um shot e se o jogador acertar o oponente que bebe. 
 
 <i>O tema das perguntas e o layout do jogo é personalizavel para cada ocasião.</i>
+
+## 🛠️ Abrir e rodar o projeto
+<i> Arquivo adaptado para jogar no computador sem os botões de fliperama</i>
+Baixe o Arquivo nesse Link:
+https://github.com/gabhilles/game-universitario-/raw/main/Instalador/Enem%20to%20Bebado%20Setup.exe
+Abra o arquivo e siga as instruções.
 
 <h3> Printscreen da tela inicial</h3>
 <img src="https://github.com/gabhilles/game-universitario-/blob/main/Layout/DESAFIE-UM-JOGADOR.png" width="350"/>
