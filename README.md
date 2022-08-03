@@ -5,7 +5,7 @@
 </div>
 
 
-## Descrição do Jogo
+## 📰 Descrição do Jogo
 O jogo consiste em 5 rodadas onde aparecerá na tela uma pergunta com quatro alternativas. 
 Então dois jogadores desafiam-se a acertar a alternativa correta.
 O jogador que errar bebe um shot e se o jogador acertar o oponente que bebe. 
