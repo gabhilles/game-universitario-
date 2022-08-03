@@ -23,7 +23,7 @@ https://github.com/gabhilles/game-universitario-/raw/main/Instalador/Enem%20to%2
 
 ## 🛠️ Construção do projeto.
 
-o que utilizei para a criação do game:
+** O que utilizei para a criação do game:
 
 - C#
 - Unity 2017
