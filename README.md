@@ -35,7 +35,7 @@ https://github.com/gabhilles/game-universitario-/raw/main/Instalador/Enem%20to%2
 ## 📷 Fotos do Projeto
 
 <div style="display: flex;">
-   <img src="https://github.com/gabhilles/game-universitario-/blob/main/Images/WhatsApp%20Image%202022-08-02%20at%2021.45.17.jpeg" width="350"/>
+   <img src="https://github.com/gabhilles/game-universitario-/blob/main/Images/WhatsApp%20Image%202022-08-02%20at%2021.45.17.jpeg" width="500"/>
   <img src="https://github.com/gabhilles/game-universitario-/blob/main/Images/WhatsApp%20Image%202022-08-02%20at%2021.45.17%20(1).jpeg" width="350"/>
   <img src="https://github.com/gabhilles/game-universitario-/blob/main/Images/WhatsApp%20Image%202022-08-02%20at%2021.45.34.jpeg" width="350"/>
   <img src="https://github.com/gabhilles/game-universitario-/blob/main/Images/WhatsApp%20Image%202022-08-02%20at%2021.46.17.jpeg" width="350"/>
