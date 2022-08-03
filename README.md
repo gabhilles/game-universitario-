@@ -23,13 +23,15 @@ https://github.com/gabhilles/game-universitario-/raw/main/Instalador/Enem%20to%2
 
 ## 🛠️ Construção do projeto.
 
- O que utilizei para a criação do game:
+<i>O que utilizei para a criação do game:</i>
 
---`C#`
---`Unity 2017`
---`botões de fliperama`
---`placa controladora`
---`tv 32pol`
+- `C#`
+- `Unity 2017`
+- `botões de fliperama`
+- `placa controladora`
+- `tv 32pol`
+
+***
 
 <h3> Printscreen da tela inicial</h3>
 <img src="https://github.com/gabhilles/game-universitario-/blob/main/Layout/DESAFIE-UM-JOGADOR.png" width="350"/>
