@@ -17,7 +17,7 @@ O jogador que errar bebe um shot e se o jogador acertar o oponente que bebe.
 <i> Arquivo adaptado para jogar no computador sem os botões de fliperama</i>
 
 - Baixe o arquivo instalador nesse Link:
-encurtador.com.br/egkT5
+www.encurtador.com.br/egkT5
 - Abra o arquivo e siga as instruções.
 
 <h3> Printscreen da tela inicial</h3>
