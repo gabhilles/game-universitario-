@@ -17,7 +17,8 @@ O jogador que errar bebe um shot e se o jogador acertar o oponente que bebe.
 <i> Arquivo adaptado para jogar no computador sem os botões de fliperama</i>
 
 - Baixe o arquivo instalador nesse Link:
-www.encurtador.com.br/egkT5
+
+https://github.com/gabhilles/game-universitario-/raw/main/Instalador/Enem%20to%20Bebado%20Setup.exe
 - Abra o arquivo e siga as instruções.
 
 <h3> Printscreen da tela inicial</h3>
